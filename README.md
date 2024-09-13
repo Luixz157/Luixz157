@@ -1,4 +1,4 @@
-### Olá! Eu sou o Luiz Antônio de Souza ✌️<br/>
+### Olá! Eu sou o Luiz Antônio de Souza ✌️.<br/>
 
 [![Portifolio](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://www.linkedin.com/in/luiz-antonio-souza-5000a226b/)
 
