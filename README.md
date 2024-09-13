@@ -1,6 +1,7 @@
-### Olá! Eu sou o Luiz Antônio de Souza ✌️
+### Olá! Eu sou o Luiz Antônio de Souza ✌️<br/>
 
 [![Portifolio](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://www.linkedin.com/in/luiz-antonio-souza-5000a226b/)
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luizantonio.souza_/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-antonio-souza-5000a226b/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/luiz-antonio-souza-5000a226b/)
@@ -46,4 +47,4 @@
   <img align="center" alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </div><br/>
 
-Apaixonado por tecnologia, desafios e por mudar a vida das pessoas através da programação
+Apaixonado por tecnologia, desafios e por mudar a vida das pessoas através da programação.
