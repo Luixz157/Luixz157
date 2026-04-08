@@ -67,7 +67,7 @@ Aqui estão alguns dos projetos (profissionais e pessoais) nos quais tenho traba
 Mantenho uma rotina rigorosa de estudos e evolução contínua, documentando tudo no meu **[Coding Dojo / Codewars](#)** e acompanhando os meus commits.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuixzSouza&layout=compact&theme=dracula&hide_border=true&custom_title=Linguagens%20Mais%20Utilizadas&v=1" alt="Estatísticas de Linguagens do GitHub" />
+  <img src="https://www.codewars.com/users/LuixzSouza/badges/large" alt="CodeWars"/>
 </div>
 
 <br/>
