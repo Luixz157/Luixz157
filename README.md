@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=220&section=header&text=Luiz%20Souza&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="Banner: Luiz Souza" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQEIO3eyonPZ_g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1737650106418?e=1777507200&v=beta&t=jCndajI8rg8KxqmaKYvkHbGD4tqqDymTajUWQnDyY_4" alt="CoverLuixz" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3389F7&center=true&vCenter=true&width=435&lines=Dev+Full+Stack;Arquitetura+Headless;Next.js+%7C+PHP+%7C+React+Native" alt="Desenvolvedor Full Stack" />
@@ -18,6 +18,10 @@
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar Email" />
     </a>
   </p>
+
+  <br/>
+
+  
 </div>
 
 ---
@@ -79,5 +83,5 @@ Mantenho uma rotina rigorosa de estudos e evolução contínua, documentando tud
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=100&section=footer" width="100%" alt="Rodapé decorativo" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0416cd&height=100&section=footer" width="100%" alt="Rodapé decorativo" />
 </div>
