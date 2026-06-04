@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQEIO3eyonPZ_g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1737650106418?e=1777507200&v=beta&t=jCndajI8rg8KxqmaKYvkHbGD4tqqDymTajUWQnDyY_4" alt="CoverLuixz" />
+  <img src="https://luixzsouza.com.br/MetaTag.webp" alt="CoverLuixz" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3389F7&center=true&vCenter=true&width=435&lines=Dev+Full+Stack;Arquitetura+Headless;Next.js+%7C+PHP+%7C+React+Native" alt="Desenvolvedor Full Stack" />
